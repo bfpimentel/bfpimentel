@@ -28,28 +28,28 @@
       <sub>Personal dotfiles and server orchestration using Nix and Home Manager</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/bfpimentel/eag"><b>eag</b></a><br />
-      <sub>Self-hosted email alias generator for Purelymail and MXRoute, with optional Bitwarden integration</sub>
+      <a href="https://github.com/bfpimentel/halo"><b>halo</b></a><br />
+      <sub>Desktop widgets for macOS, written in TSX</sub>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/bfpimentel/eag"><b>eag</b></a><br />
+      <sub>Self-hosted email alias generator for Purelymail and  MXRoute, with optional Bitwarden integration</sub>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/bfpimentel/ad-aeternum"><b>ad-aeternum</b></a><br />
       <sub>Interactive Rosary app for iOS and Android using React Native and Expo</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bfpimentel/drip"><b>drip</b></a><br />
       <sub>Stupid simple file upload server with real-time updates and auto-expiration</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/bfpimentel/shady"><b>shady</b></a><br />
       <sub>Auto Docker containers dashboard and static file server</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/bfpimentel/satellite"><b>satellite</b></a><br />
-      <sub>White-noise playback app made with Flutter and controlled by a Flask server</sub>
     </td>
   </tr>
 </table>
