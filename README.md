@@ -20,6 +20,7 @@
 
 ## Projects
 
+<!-- projects:start -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -52,6 +53,7 @@
     </td>
   </tr>
 </table>
+<!-- projects:end -->
 
 ## Writing
 
